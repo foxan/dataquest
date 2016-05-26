@@ -1,2 +1,2 @@
 # dataquest
-Project work on dataquest.io
+Project work on http://dataquest.io
